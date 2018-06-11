@@ -1,6 +1,6 @@
 # Images and temp csv files
 *.png
-*.csv
+#*.csv
 *.xlsx
 data/final/price decline since release date - Apple.xlsx
 data/final/price decline since release date - Google.xlsx
